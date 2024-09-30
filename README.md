@@ -1,5 +1,6 @@
 # 03 Debugging Jest
 
+
 In this sample we are going to configure VS Code for debugging Jest specs.
 
 We will start from sample _02 Controllers_.
